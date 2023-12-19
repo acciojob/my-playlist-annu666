@@ -19,9 +19,12 @@
 }
 #video{
 	background-color:white;
-	width:400px;
+	width:656px;
+	height:600px;
 	margin:10px;
-	border:1px solid black;
+	border:2px solod black;
+	border-radius:10px;
+
 }
 #video2{
 	margin:10px;
