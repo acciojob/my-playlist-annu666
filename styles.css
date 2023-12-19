@@ -1,13 +1,13 @@
 /*  your css code here. If applicable */
 #main{
-	background-color:gray;
+	background-color:rgb(204, 204, 204);
 }
 .headings{
 	text-align:center;
 	margin:10px 30px;
 	
 }
-#main>audio{
+#player-two{
 	width:600px;
 }
 #songlist{
@@ -16,6 +16,7 @@
     margin:10px;
 	border-left:10px;
 	border:1px solid black;
+	list-style-type:none;
 }
 #video{
 	background-color:white;
@@ -26,6 +27,6 @@
 	border-radius:10px;
 
 }
-#video2{
+#player-one{
 	margin:10px;
 }
