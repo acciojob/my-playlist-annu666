@@ -1,32 +1,26 @@
 /*  your css code here. If applicable */
-#main{
-	background-color:rgb(204, 204, 204);
-}
-.headings{
-	text-align:center;
-	margin:10px 30px;
-	
-}
-#player-two{
-	width:600px;
-}
-#songlist{
-    width:656px;
-	background-color:white;
-    margin:10px;
-	border-left:10px;
-	border:1px solid black;
-	list-style-type:none;
-}
-#video{
-	background-color:white;
-	width:656px;
-	height:600px;
-	margin:10px;
-	border:2px solod black;
-	border-radius:10px;
 
-}
-#player-one{
-	margin:10px;
-}
+ body{
+      background-color: rgb(204, 204, 204);
+    }
+    .heading{
+      text-align: center;
+    }
+    ul{
+      list-style-type: none;
+    }
+	a{
+		text-decoration-line: none;
+	}
+    .player_one{
+      background-color: rgb(255,255,255);
+      padding: auto;
+      border-radius: 10px;
+    }
+    .player_two{
+      background-color: rgb(255,255,255);
+      padding: auto;
+      border-radius: 10px;
+    }
+    
+ 
